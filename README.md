@@ -1,1 +1,8 @@
 # 📷 Adobe Photoshop CS6 for GNU/Linux 📷
+Working Adobe Photoshop CS6 for GNU/Linux via Bottles
+
+<div align="center">
+<a href="https://github.com/orionplant/Adobe-Photoshop-CS6" title="Go to GitHub repo">
+  <img src="https://img.shields.io/static/v1?label=orionplant&message=Adobe-Photoshop-CS6&color=purple&logo=github" alt="orionplant - Adobe-Photoshop-CS6">
+</a>
+</div>
