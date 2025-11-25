@@ -13,7 +13,7 @@ Working Adobe Photoshop CS6 for GNU/Linux via Bottles
 1. [Bottles](https://github.com/bottlesdevs/Bottles)
 
 # Usage
-1. Download .zip file from ...
+1. Download .zip file from [Release](https://github.com/orionplant/Adobe-Photoshop-CS6/releases/tag/CS6)
 2. Unzip
 3. Create new bottle (For runner set sys-wine-...)
 4. Go to Settings -> Display -> Discrete Graphics -> On
@@ -24,4 +24,9 @@ Working Adobe Photoshop CS6 for GNU/Linux via Bottles
 9. In PhotoshopCS6Portable.ini, DisableSplashScreen=true (To not get this annoying startup watermark)
 10. And in Bottles you can add shortcut to Adobe Photoshop CS6 on your Desktop
 
-(Location: /home/user/.var/app/com.usebottles.bottles/data/applications)
+Location: /home/user/.var/app/com.usebottles.bottles/data/applications
+
+# License
+<a href="https://github.com/orionplant/arpSpoofy/blob/main/LICENSE" title="LICENSE">
+  <img src="https://img.shields.io/static/v1?label=&message=LICENSE&color=blue&logo=github" alt="LICENSE"> 
+</a>
