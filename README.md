@@ -1,1 +1,1 @@
-# Adobe-Photoshop-CS6
+# 📷 Adobe Photoshop CS6 for GNU/LINUX 📷
