@@ -8,3 +8,6 @@ Working Adobe Photoshop CS6 for GNU/Linux via Bottles
 </div>
 
 <img width="1920" height="1051" alt="Screenshot From 2025-11-25 14-55-41" src="https://github.com/user-attachments/assets/0fd16adc-0646-481d-a173-765956915836" />
+
+# Requirements
+1. [Bottles](https://github.com/bottlesdevs/Bottles)
