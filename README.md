@@ -1,18 +1,16 @@
-# 📷 Adobe Photoshop CS6 for GNU/Linux 📷
+# ***Adobe Photoshop CS6 for GNU/Linux***
 Working Adobe Photoshop CS6 for GNU/Linux via Bottles
 
-<div align="center">
 <a href="https://github.com/orionplant/Adobe-Photoshop-CS6" title="Go to GitHub repo">
   <img src="https://img.shields.io/static/v1?label=orionplant&message=Adobe-Photoshop-CS6&color=purple&logo=github" alt="orionplant - Adobe-Photoshop-CS6">
 </a>
-</div>
 
 <img width="1920" height="1051" alt="Screenshot From 2025-11-25 14-55-41" src="https://github.com/user-attachments/assets/0fd16adc-0646-481d-a173-765956915836" />
 
-# Requirements
+***Requirements***
 1. [Bottles](https://github.com/bottlesdevs/Bottles)
 
-# Usage
+***Usage***
 1. Download .zip file from [Release](https://github.com/orionplant/Adobe-Photoshop-CS6/releases/tag/CS6)
 2. Unzip
 3. Create new bottle (For runner set sys-wine-...)
@@ -26,7 +24,8 @@ Working Adobe Photoshop CS6 for GNU/Linux via Bottles
 
 Location: /home/user/.var/app/com.usebottles.bottles/data/applications
 
-# License
+***License***
+-------
 <a href="https://github.com/orionplant/arpSpoofy/blob/main/LICENSE" title="LICENSE">
   <img src="https://img.shields.io/static/v1?label=&message=LICENSE&color=blue&logo=github" alt="LICENSE"> 
 </a>
